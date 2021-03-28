@@ -1,3 +1,3 @@
-# epub-wl-redoc
+# EPUB Web Library (ReDoc)
 
-[GitHub Pages](https://jayruin.github.io/epub-wl-redoc/)
+[GitHub Pages](https://epubwl.github.io/redoc/)
